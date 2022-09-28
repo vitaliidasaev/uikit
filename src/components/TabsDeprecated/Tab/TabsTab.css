@@ -1,4 +1,4 @@
-.TabsDeprecated {
+.TabsTab {
   --tab-indent: var(--space-m);
   position: relative;
   display: inline-flex;

@@ -8,7 +8,7 @@ import { cn } from '../../../utils/bem';
 import { getByMap } from '../../../utils/getByMap';
 import { TabsPropSize } from '../TabsDeprecated';
 
-export const cnTabsTab = cn('TabsDeprecatedTab');
+export const cnTabsTab = cn('TabsTab');
 
 type Props = {
   size: TabsPropSize;
