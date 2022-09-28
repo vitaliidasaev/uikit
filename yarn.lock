@@ -1430,15 +1430,15 @@
     date-fns "^2.17.0"
     react-transition-group "^4.4.2"
 
-"@consta/stand@^0.0.50":
-  version "0.0.50"
-  resolved "https://registry.yarnpkg.com/@consta/stand/-/stand-0.0.50.tgz#7ef8073c58464c8b0edc4f1848217e363c38b299"
-  integrity sha512-PfAQKQP1NrLj4B4CfbvckmXdTg0oEklT4maM66ZcfW39TOsqPwBRaiWRp9LrW3g/gTiPIEUA/tWfeCQQ27YJ2w==
+"@consta/stand@^0.0.53":
+  version "0.0.53"
+  resolved "https://registry.yarnpkg.com/@consta/stand/-/stand-0.0.53.tgz#c519f0709f9bc528e24e09d6ab48b09b17efb851"
+  integrity sha512-WTRvipfTCAInlppKq/MQfUBt6h7X9pwS5YUv+MkIiPJ1m54hjv6A5Nm643u91lRRT8EJv8wB2Rga9/2OEE4zfQ==
   dependencies:
     "@bem-react/classname" "^1.5.12"
     "@bem-react/classnames" "^1.3.10"
     "@consta/header" "^0.4.4"
-    "@consta/uikit" "^4.0.0"
+    "@consta/uikit" "^4.0.1"
     "@mdx-js/loader" "^2.1.1"
     "@mdx-js/react" "^2.1.1"
     "@oclif/command" "^1.8.16"
@@ -1502,10 +1502,10 @@
     webpack-manifest-plugin "^4.0.2"
     workbox-webpack-plugin "^6.4.1"
 
-"@consta/uikit@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@consta/uikit/-/uikit-4.0.0.tgz#87ad3ba8baef2e41da99ba13e38a99a48d3ce1ad"
-  integrity sha512-iCdxKbn0/vs9kRSpRfmZhGrkWCpqn+PstKVELRtVAQue5st0CcgaRXnTnWrw3pyWE17iIHFt6XrRbKCBRb4THw==
+"@consta/uikit@^4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@consta/uikit/-/uikit-4.0.1.tgz#afb648260039f908ee434dbb19035d590c8d9603"
+  integrity sha512-FksSrqlA+f4NzSy6YrgZgvWVHVBe6Nn+XcVJBDNFJlqV8SiaRLX4D3dMwDL95Ri98wlyoBnSdqAhiXObEspIXA==
   dependencies:
     "@bem-react/classname" "^1.5.12"
     "@bem-react/classnames" "^1.3.10"
